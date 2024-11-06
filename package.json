@@ -2,7 +2,7 @@
   "name": "puppeteer-extra-plugin-capsolver",
   "version": "2.0.1",
   "description": "Manage to solve captcha challenges with AI in a puppeteer-extra app (captcha service based).",
-  "main": "src/Plugin.js",
+  "main": "src/Plugin.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
