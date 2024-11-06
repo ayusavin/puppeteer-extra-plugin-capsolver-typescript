@@ -2,6 +2,12 @@
   // Change this to match your project
   "include": ["src/**/*"],
   "compilerOptions": {
+    "target": "es6",
+    "lib": [
+      "dom",
+      "es2019"
+    ],
+    "module": "commonjs",
     // Tells TypeScript to read JS files, as
     // normally they are ignored as source files
     "allowJs": true,
